@@ -1,0 +1,7 @@
+C:\25_Project\game\game1\game1\bin\Debug\game1.exe.config
+C:\25_Project\game\game1\game1\bin\Debug\game1.exe
+C:\25_Project\game\game1\game1\bin\Debug\game1.pdb
+C:\25_Project\game\game1\game1\obj\Debug\game1.csproj.AssemblyReference.cache
+C:\25_Project\game\game1\game1\obj\Debug\game1.csproj.CoreCompileInputs.cache
+C:\25_Project\game\game1\game1\obj\Debug\game1.exe
+C:\25_Project\game\game1\game1\obj\Debug\game1.pdb
